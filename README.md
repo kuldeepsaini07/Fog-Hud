@@ -22,10 +22,13 @@ The system detects nearby objects using computer vision and measures their real-
 This creates a low-cost intelligent driver-assistance style system.
 
 PPT
-fog hud.pptx
+[fog hud.pptx](https://github.com/user-attachments/files/26124373/fog.hud.pptx)
+
 
 DEMO
-pic pic_1
+![pic](https://github.com/user-attachments/assets/0b1702a6-9ee4-4518-9a86-4c62f24bf0c3)
+![pic_1](https://github.com/user-attachments/assets/a294e936-4edf-4451-9a30-fed53656d1bc)
+
 
 🎯 Problem Statement
 Accidents often occur due to:
@@ -182,6 +185,3 @@ This project demonstrates how AI + embedded systems + sensor fusion can create p
 Winning 🥈 2nd Prize at Visionathon validates its innovation and real-world relevance.
 
 
-
-Terms
-Privacy
